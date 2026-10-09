@@ -1,22 +1,55 @@
-# Scroll-Tabber
-A free Windows utility for switching between tabs using your mouse wheel.
+# Scroll Tabber
 
-Scroll Tabber simulates the functions of Alt + Tab with a few more options and much more efficiency.
+**A free Windows utility for switching between open windows using your mouse wheel.**
 
-Features
+Scroll Tabber brings the functionality of **Alt + Tab** to your mouse, making switching between applications faster, easier, and more convenient.
 
-Mouse Wheel Tilt Navigation – Quickly cycle through open windows using your mouse wheel's tilt buttons.
+---
+
+## Features
+
+### Mouse Wheel Tilt Navigation
+
+Quickly cycle through open windows using your mouse wheel's left and right tilt buttons.
 
 ![Scroll Tabber Demo](Untitled.gif)
 
-Middle-Mouse Hub – Access a convenient window-switching interface with your middle mouse button.
+### Middle-Mouse Hub
+
+Access a convenient window-switching interface by clicking your middle mouse button.
 
 ![Scroll Tabber Demo](Untitle2d.gif)
 
-Multi-Monitor Support – Switch between windows while working across multiple monitors without having to click for window focus. Scroll Tabber functions by where the mouse hovers, rather than having to click to manually change focus.
+### Multi-Monitor Support
 
-Customizable Options – This utility runs in the background so it easily stays out of your way.
+Seamlessly switch between windows across multiple monitors **without needing to click to change window focus**.
+
+Scroll Tabber detects which monitor your mouse is hovering over, allowing you to navigate windows without manually activating them first.
+
+### Customizable Options
+
+Personalize Scroll Tabber to fit your workflow.
+
+- **Adjustable Scroll Sensitivity:** Control how quickly the mouse wheel's tilt buttons cycle between windows.
+- **Rapid Window Switching:** Lower sensitivity values allow faster switching between windows.
+- **Continuous Switching:** Set the sensitivity extremely low to automatically cycle through windows while holding a tilt button.
+- **Additional Settings:** Customize the application to suit your preferences.
 
 ![Scroll Tabber Screenshot](scrolltabber.png)
 
-Easy Installation – Install Scroll Tabber and start using it without complicated setup.
+### Easy Installation
+
+Getting started takes just a few steps:
+
+1. Download and run the Scroll Tabber installer.
+2. Choose your preferred settings.
+3. Adjust your mouse wheel tilt sensitivity.
+4. Start switching between windows!
+
+---
+
+## Download
+
+**Scroll Tabber is completely free to download and use.**
+
+Visit the **[Releases](../../releases)** page to download the latest Windows installer.
