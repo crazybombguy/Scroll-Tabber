@@ -12,13 +12,13 @@ Scroll Tabber brings the functionality of **Alt + Tab** to your mouse, making sw
 
 Quickly cycle through open windows using your mouse wheel's left and right tilt buttons.
 
-![Scroll Tabber Demo](Untitled.gif)
+![Scroll Tabber Demo](assets/Untitled.gif)
 
 ### Middle-Mouse Hub
 
 Access a convenient window-switching interface by clicking your middle mouse button.
 
-![Scroll Tabber Demo](Untitle2d.gif)
+![Scroll Tabber Demo](assets/Untitle2d.gif)
 
 ### Multi-Monitor Support
 
@@ -35,7 +35,7 @@ Personalize Scroll Tabber to fit your workflow.
 - **Continuous Switching:** Set the sensitivity extremely low to automatically cycle through windows while holding a tilt button.
 - **Additional Settings:** Customize the application to suit your preferences.
 
-![Scroll Tabber Screenshot](scrolltabber.png)
+![Scroll Tabber Screenshot](assets/scrolltabber.png)
 
 ### Easy Installation
 
