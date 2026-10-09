@@ -56,4 +56,4 @@ Getting started takes just a few steps:
 
 **Scroll Tabber is completely free to download and use.**
 
-**[Download Scroll Tabber v1.0.3 for Windows](https://github.com/crazybombguy/Scroll-Tabber/releases/download/v1.0.3/ScrollTabber-Setup-1.0.3-win-x64.exe)**
+**[Download Scroll Tabber v1.0.3 for Windows]([https://github.com/crazybombguy/Scroll-Tabber/releases/download/v1.0.3/ScrollTabber-Setup-1.0.3-win-x64.exe](https://github.com/crazybombguy/Scroll-Tabber/releases/download/v1.0.5/ScrollTabber-Setup-1.0.5-win-x64.exe))**
