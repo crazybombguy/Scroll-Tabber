@@ -7,6 +7,8 @@ Features
 
 Mouse Wheel Tilt Navigation – Quickly cycle through open windows using your mouse wheel's tilt buttons.
 
+![Scroll Tabber Demo](Desktop 2026.10.09 - 13.35.09.02 - Trim.gif)
+
 Middle-Mouse Hub – Access a convenient window-switching interface with your middle mouse button.
 
 Multi-Monitor Support – Switch between windows while working across multiple monitors without having to click for window focus. Scroll Tabber functions by where the mouse hovers, rather than having to click manually to change focus.
