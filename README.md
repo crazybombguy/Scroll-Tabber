@@ -1,4 +1,4 @@
-# scroll-tabber
+# Scroll-Tabber
 A free Windows utility for switching between tabs using your mouse wheel.
 
 Scroll Tabber simulates the functions of Alt + Tab with a few more options and much better efficiency.
