@@ -18,7 +18,7 @@ Quickly cycle through open windows using your mouse wheel's left and right tilt 
 
 Access a convenient window-switching interface by clicking your middle mouse button.
 
-![Scroll Tabber Demo](assets/Untitle2d.gif)
+![Middle-Mouse Hub Demo](assets/Untitle2d.gif)
 
 ### Multi-Monitor Support
 
