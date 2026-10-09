@@ -37,6 +37,10 @@ Personalize Scroll Tabber to fit your workflow.
 
 ![Scroll Tabber Screenshot](assets/scrolltabber.png)
 
+### Quickly Enable/Disable
+
+Just hold the middle mouse button down for three seconds, and Scroll Tabber can be enabled or disabled.
+
 ### Easy Installation
 
 Getting started takes just a few steps:
