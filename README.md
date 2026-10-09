@@ -7,7 +7,7 @@ Features
 
 Mouse Wheel Tilt Navigation – Quickly cycle through open windows using your mouse wheel's tilt buttons.
 
-![Scroll Tabber Demo](Desktop 2026.10.09 - 13.35.09.02 - Trim.gif)
+![Scroll Tabber Demo]([Desktop 2026.10.09 - 13.35.09.02 - Trim.gif](https://github.com/crazybombguy/scroll-tabber/blob/main/Desktop%202026.10.09%20-%2013.35.09.02%20-%20Trim.gif))
 
 Middle-Mouse Hub – Access a convenient window-switching interface with your middle mouse button.
 
