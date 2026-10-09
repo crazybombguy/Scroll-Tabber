@@ -17,4 +17,6 @@ Multi-Monitor Support – Switch between windows while working across multiple m
 
 Customizable Options – This utility runs in the background so it easily stays out of your way.
 
+![Scroll Tabber Screenshot](ScrollTabber.png)
+
 Easy Installation – Install Scroll Tabber and start using it without complicated setup.
